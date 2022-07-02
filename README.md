@@ -7,3 +7,5 @@
   - **Práticas do Cruso 7** - Estrutura de Dados em Java (Finalizado em 30/06);
   
   - **Práticas do Curso 8** - Debugging Java (Finalizado em 30/06);
+  
+  - **Práticas do Curso 9** - Tratamento de Exceções em Java (Finalizado em 01/07);
