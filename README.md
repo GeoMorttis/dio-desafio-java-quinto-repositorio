@@ -9,3 +9,5 @@
   - **Práticas do Curso 8** - Debugging Java (Finalizado em 30/06);
   
   - **Práticas do Curso 9** - Tratamento de Exceções em Java (Finalizado em 01/07);
+  
+  - **Práticas do Curso 10** - Programação Orientada a Objetos (Finalizada em 04/07);
