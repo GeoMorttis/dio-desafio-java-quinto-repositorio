@@ -4,6 +4,8 @@
 
 - Neste reposítorios estão:
   
+  - **Desafio de Projeto Java** - Aplicação Bancária (Em elaboração)
+  
   - **Práticas do Cruso 7** - Estrutura de Dados em Java (Finalizado em 30/06);
   
   - **Práticas do Curso 8** - Debugging Java (Finalizado em 30/06);
