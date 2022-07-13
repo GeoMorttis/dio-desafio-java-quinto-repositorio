@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="one.dio.EscolhendoAOrdemTeste" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-13T22:21:26" hostname="NOTEBOOK-MORTTI" time="0.023">
+  <properties/>
+  <testcase name="B" classname="one.dio.EscolhendoAOrdemTeste" time="0.018"/>
+  <testcase name="C" classname="one.dio.EscolhendoAOrdemTeste" time="0.001"/>
+  <testcase name="D" classname="one.dio.EscolhendoAOrdemTeste" time="0.001"/>
+  <testcase name="Teste que valida se o usuÃ¡rio foi criado" classname="one.dio.EscolhendoAOrdemTeste" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

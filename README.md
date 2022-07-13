@@ -13,3 +13,5 @@
   - **Práticas do Curso 9** - Tratamento de Exceções em Java (Finalizado em 01/07);
   
   - **Práticas do Curso 10** - Programação Orientada a Objetos (Finalizada em 04/07);
+  
+  - **Práticas do Curso 13** - Testes Unitários com JUnit (Finalizado em 13/07);
