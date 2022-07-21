@@ -4,7 +4,7 @@
 
 - Neste reposítorios estão:
   
-  - **Desafio de Projeto Java** - Aplicação Bancária (Em elaboração)
+  - **Desafio de Projeto Java** - Aplicação Bancária (Finalizado em 21/07)
   
   - **Práticas do Cruso 7** - Estrutura de Dados em Java (Finalizado em 30/06);
   
